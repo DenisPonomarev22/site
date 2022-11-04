@@ -1,0 +1,46 @@
+.card{
+    background-color: white;
+}
+
+.color1{
+    color: darkmagenta;
+    background-color: white;
+}
+
+.color2{
+    color: #4B0082;
+    background-color: white;
+}
+
+.color3 {
+    color: #aaa;
+    background-color: white;
+}
+
+.color4{
+    color: rgb(75, 0, 130, 1);
+    background-color: white;
+}
+
+.color5{
+    /* color: transparent; */
+    color: darkblue;
+}
+
+.html{
+    background: #e96228;
+    color: white;
+}
+
+.css{
+    background: #2465f1;
+    color: white;
+}
+
+.header{
+    background-color: white;
+}
+
+.card-border{
+    background-color: white;
+}

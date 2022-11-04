@@ -1,0 +1,21 @@
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+/* Псевдоселекторы */
+ a:hover{ /* hover - поведение, при наведении курсором*/
+    color: orange;
+}
+
+a:visited{
+    color: palevioletred;
+}
+
+a:active{
+    color: blue;
+}
+
+.css:hover{
+    color: orange;
+}

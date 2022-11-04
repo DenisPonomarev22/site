@@ -1,0 +1,36 @@
+.border-1{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* bottom, top, right, left */
+.border-2{
+    border-bottom: 2px solid blueviolet;
+    border-right: 5px solid blueviolet;
+    border-bottom-right-radius: 10px;
+}
+.border-3{
+    background:rgb(205, 92, 92);
+    border-left: 8px solid  rgb(178, 34, 34);
+    padding: 10px;
+}
+
+.card{
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.html{
+    
+    border: 1px solid #e96228;
+    border-radius: 10px;
+}
+
+.header-img{
+    height: 350px;
+    width: 600px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}

@@ -1,0 +1,61 @@
+/* Name Tag */
+
+body {
+    background-color: #eee;
+}
+
+/* Class */
+
+* {
+    color: black;
+}
+
+.font-for-header {
+    font-family: Snell Roundhand, cursive;
+}
+
+.standart-hr {
+    color:black;
+    width: 95%;
+}
+
+.h1-head-header {
+    width: 26%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h2-head-header {
+    width: 178px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-hobbi {
+    list-style-type: none;
+    background-color: white;
+}
+
+.table-my-work{
+    background-color: white;
+    border: 2px solid black;
+}
+
+.header-text{
+    background-color: white;
+    margin-bottom: 10px;
+    font-size: 2x;
+    padding: 10px;
+}
+
+.mywork {
+    color: black;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+
+/* ID */
+
+#table-my-work {
+    /* background-color:cornflowerblue; */
+}
